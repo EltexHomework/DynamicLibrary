@@ -82,4 +82,5 @@ Enter option: 5
 ```
 
 ## Демонстрация работы программ
+![image](https://github.com/EltexHomework/DynamicLibrary/assets/70006380/e1b2fc71-23f9-4dd6-a0bb-77ce3b3fd5ae)
 
